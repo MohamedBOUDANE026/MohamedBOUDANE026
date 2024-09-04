@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **developing new options**
 
-- 🌱 I’m currently learning **Java language & Spring boot**
+- 🌱 I’m currently learning **Java language & Spring boot Framework**
 
 - 📫 Contact me in : **mohamedboudane6@gmail.com**
 
