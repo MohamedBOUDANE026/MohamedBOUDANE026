@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Mohamed BOUDANE</h1>
 <h3 align="center">Software Engineer At Moroccan School of Engineering Sciences</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0&h=180">
 
 - 🔭 I’m currently working on **developing new options**
 
